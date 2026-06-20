@@ -1,1 +1,2 @@
 # Parallel-Computing
+Program ini menggunakan konsep Parallel Computing dengan memanfaatkan modul multiprocessing pada Python. Setiap baris matriks diproses secara paralel oleh beberapa proses sehingga pekerjaan dapat diselesaikan lebih cepat dibandingkan pemrosesan secara berurutan (sequential). Program melakukan penjumlahan dua buah matriks berukuran 3×3 dan menghasilkan matriks baru sebagai hasil penjumlahan.
